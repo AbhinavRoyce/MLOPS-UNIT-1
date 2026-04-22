@@ -8,3 +8,5 @@ To recreate this project's environment:
 
 # For Mac/Linux:
 source mlops/bin/activate
+
+# Packages
