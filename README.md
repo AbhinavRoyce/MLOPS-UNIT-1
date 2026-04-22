@@ -7,3 +7,4 @@ To recreate this project's environment:
 3. Install dependencies: `pip install -r requirements.txt`
 
 # For Mac/Linux:
+source mlops/bin/activate
