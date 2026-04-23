@@ -11,3 +11,4 @@ source mlops/bin/activate
 
 # Packages
 numpy
+pandas
