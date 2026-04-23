@@ -10,3 +10,4 @@ To recreate this project's environment:
 source mlops/bin/activate
 
 # Packages
+numpy
